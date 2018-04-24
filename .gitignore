@@ -1,0 +1,6 @@
+public/main.js
+*.map
+npm-modules
+.idea
+*.iml
+.DS_Store
